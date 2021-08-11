@@ -1,0 +1,33 @@
+{
+  "name": "criticalcarpet",
+  "type": "module",
+  "version": "1.0.1",
+  "description": "my first package with no idea",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Criticalcarpet/Npm-package-.git"
+  },
+  "keywords": [
+    "BRUH"
+  ],
+  "author": "Criticalcarpet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Criticalcarpet/Npm-package-/issues"
+  },
+  "homepage": "https://github.com/Criticalcarpet/Npm-package-#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "html-metadata-parser": "^2.0.2",
+    "fastify": "^3.20.1",
+    "fastify-static": "^4.2.3"
+  }
+}
